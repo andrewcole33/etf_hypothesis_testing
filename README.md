@@ -21,8 +21,4 @@ To gather data and perform necessary statistical analysis on collected data in o
 #### Will:
 - 
 
-
-
-
-
 ### Summary of Included Files
