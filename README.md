@@ -18,11 +18,18 @@ To gather data and perform necessary statistical analysis on collected data in o
 - Create markdown README file on project
 - Collaborate with Will on both technical and non-technical jupyter notebooks
 - Write asset_cleaner & test_statistics modules for importing to the jupyter notebook
-- Write non-technical jupyter notebook filel
+- Write non-technical jupyter notebook file
 
 
 #### Will:
-- 
+- Create null and alternative hypotheses 
+- Work in tandem with Andrew to create a technical and non-technical notebook for our recommendations
+- Find comprehensive stock market data from alphavantage.co for XLV, .INX, JNJ
+- Clean and format data to usable state
+- Create visualizations for the RSI sampling distributions
+- Sample and normalize the data to conduct appropriate statistical test
+- Determine the power and effect for the proposed correlations
+- Merge independent ipynb documents to create the collabrative final product
 
 ### Summary of Included Files
 The following files are included underthe Module_3_Project folder within the Github repository:
