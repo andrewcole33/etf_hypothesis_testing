@@ -41,10 +41,10 @@ def calculate_cohens_d(sample_asset, population_asset):
     
     diff_mean = sample_pct_change_mean - population_pct_change_mean
     
-    n_sample = len(sample_asset)
-    n_pop = len(population_asset)
-    var_sample = sample_asset.var()
-    var_pop = population_asset.var()
+    n_sample = len(sample_asset['day_pct_change'])
+    n_pop = len(population_asset['day_pct_change'])
+    var_sample = sample_asset['day_pct_change'].var()
+    var_pop = population_asset['day_pct_change'].var()
     
     pooled_var = (n_sample * var_sample + n_pop * var_pop)/(n_sample + n_pop)
     

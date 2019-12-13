@@ -18,6 +18,8 @@ To gather data and perform necessary statistical analysis on collected data in o
 - Create markdown README file on project
 - Collaborate with Will on both technical and non-technical jupyter notebooks
 - Write asset_cleaner & test_statistics modules for importing to the jupyter notebook
+- Write non-technical jupyter notebook filel
+
 
 #### Will:
 - 
